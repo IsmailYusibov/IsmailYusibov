@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi.
 
 
 Topical maps, internal link logic, crawl budget control, entity-based structuring — that’s my playground. While others chase algorithms, I make pages speak Google’s language natively.
